@@ -15,7 +15,7 @@ For other details, please refer to the  [paper](https://pjreddie.com/darknet/yol
 ##### For Training
 - Download the COCO dataset.
 - Convert the images in the COCO dataset (training folder) to TFRecord by running the TFRecords.py.
-- Change the **_istrain_** flag to be **_True_** in the **__main()_** function in the main.py file.
+- Change the **_istrain_** flag to be **_True_** in the **_ _main()_** function in the main.py file.
 - Run!
 ##### For Testing
 - Finish the 4 steps in the training. (If you have trained your model, skip this step.)
