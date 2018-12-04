@@ -30,10 +30,10 @@ For other details, please refer to the  [paper](https://pjreddie.com/darknet/yol
 - The examples of images predicted by the network will be saved into the _./images/_ folder.
 
 ##### Training for One Epoch:
-<div align=center><img src="./demo_img/epoch1_step7200_i0.png" width="500px/"></div>
+<div align=left><img src="./demo_img/epoch1_step7200_i0.png" width="500px/"></div>
 
 ##### Training for Three Epochs:
-<div align=center><img src="./demo_img/epoch3_step1700_i1.png" width="500px/"></div>
+<div align=left><img src="./demo_img/epoch3_step1700_i1.png" width="500px/"></div>
 
 
 ### For Testing
@@ -41,13 +41,13 @@ For other details, please refer to the  [paper](https://pjreddie.com/darknet/yol
 
 ##### Example Testing Images ():
 One image.
-<div align=center><img src="./demo_img/step24_i10.png" width="500px/"></div>
+<div align=left><img src="./demo_img/step24_i10.png" width="500px/"></div>
 
 Annnd another one.
-<div align=center><img src="./demo_img/step30_i14.png" width="500px/"></div>
+<div align=left><img src="./demo_img/step30_i14.png" width="500px/"></div>
 
-Annnnnnnnd one more times!
-<div align=center><img src="./demo_img/step41_i1.png" width="500px/"></div>
+Annnnnnnnd one more time!
+<div align=left><img src="./demo_img/step41_i1.png" width="500px/"></div>
 
 # For More
 Contact me: vxallset@outlook.com
