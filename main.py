@@ -5,7 +5,7 @@ function). The model is trained using COCO dataset and the darknet-19.
 By: Yu Sun
 vxallset@outlook.com
 Last modified: Dec 1st, 2018
-All right reserved.
+All rights reserved.
 
 """
 import os
